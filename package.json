@@ -1,0 +1,8 @@
+{
+  "name": "dot-settings",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:razorpay/dot-settings.git",
+  "author": "Pranav Gupta <pranavguptarulz@gmail.com>",
+  "license": "MIT"
+}
